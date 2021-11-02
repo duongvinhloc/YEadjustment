@@ -14,3 +14,5 @@ Can cac form khai bao nhu sau :
 # Chinh sach nguoi dung
 Vi anh huong den thong tin ca nhan va thu nhap nen du dinh se chi in ra PDF nhung thong tin nguoi dung nhap va khong luu bao DB
 Se dung 1 file data o local tuy theo nguoi dung do
+# Muc tieu
+Chi can 1 man hinh va thao tac nhanh gon co the in ra PDF cho nguoi dung
